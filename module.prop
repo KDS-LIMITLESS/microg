@@ -1,0 +1,10 @@
+id=MinMicroG
+name=Minimal MicroG Pack Standard Edition
+version=2.11.1
+versionCode=2111
+author=MOVZX and FatherJony and FriendlyNeighborhoodShane
+description=A Minimal MicroG installer with just the essentials
+support=
+donate=
+minMagisk=1900
+
